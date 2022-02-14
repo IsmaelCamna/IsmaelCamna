@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Alonso Ismael Camarena
+<img align='right' src="https://blog.fusiontribal.com/wp-content/uploads/2014/03/OctoCats-GitHub-daftpunktocat-thomas.gif" height="130" width="200">
 
-<p align="right">
-<img src="https://campus.fi.uba.ar/pluginfile.php/313049/mod_label/intro/1567759617660.gif" height="200, "width="600">
-
+#### Mechatronic Engineer at TecMM 🤖
+#### Traveler at Innovacion Virtual and LaunchX
+                                                                                                                       
 ## About me...
-
-Mechatronic Engineer at TecMM ⚙️
-
 - 👀 I’m interested in:
-     - Embedded systems
+     - Embedded Systems
      - Robotics
      - Microsoft Azure
      - Programming (Python/C/C++)
+     - Electronics
 - 🌱 I’m currently learning:
      - Python
      - C/C++
      - Web Development
      - IoT
+
+⚙️ From [@IsmaelCamna](https://github.com/IsmaelCamna)
