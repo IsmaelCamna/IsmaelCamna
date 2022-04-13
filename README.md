@@ -3,7 +3,7 @@
 
 ##### Mechatronic Engineer at TecMM 🤖
 ##### Explorer at LaunchX 🚀
-##### Traveler at Innovacion Virtual 
+##### Viajero at Innovacion Virtual 
 <img align='' src="https://www.uv.mx/secretariaacademica/files/2020/07/innovacion-virtual.png" height="100" width="150">
 
 [![Twitter: CamarenaAI](https://img.shields.io/badge/-CamarenaAI-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CamarenaAI)](https://twitter.com/CamarenaAI)
