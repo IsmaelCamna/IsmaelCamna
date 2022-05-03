@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Alonso Ismael Camarena
-<img align='right' src="https://blog.fusiontribal.com/wp-content/uploads/2014/03/OctoCats-GitHub-daftpunktocat-thomas.gif" height="130" width="180">
 
 ##### Mechatronic Engineer at TecMM 🤖
 ##### Explorer at LaunchX 🚀
