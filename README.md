@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Alonso Ismael Camarena
+<h1>👋 Hi, I'm Alonso Ismael Camarena</h1>
 
-##### Mechatronic Engineer at TecMM 🤖
-##### Explorer at LaunchX 🚀
-##### Viajero at Innovacion Virtual 
-<img align='' src="https://www.uv.mx/secretariaacademica/files/2020/07/innovacion-virtual.png" height="100" width="150">
+<h3>Mechatronic Engineer at TecMM 🤖<br>
+    Explorer at LaunchX 🚀<br>
+    Viajero at Innovacion Virtual<br>
+<br><img align='' src="https://www.uv.mx/secretariaacademica/files/2020/07/innovacion-virtual.png" height="100" width="150">
+<h3>
 
 <h2>:handshake: Connect with me</h2>
 
